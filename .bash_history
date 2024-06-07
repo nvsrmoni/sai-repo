@@ -81,3 +81,42 @@ git branch mainbranch
 git branch
 ls
 git checkout mainbranch
+git branch
+ls
+touch mycreation
+ls
+switch to main
+git checkout main
+git branch
+ls
+git add.
+git commit -m "good sea"
+git status
+git commit -m "good"
+git commit -m "commited to"
+git commit -m " 2.txt
+        mycreation"
+git commit -m " 2.txt
+        mycreation"
+git commit -m "mycreation"
+git commit -a "mycreation"
+nano testfile
+git add.
+git committ -m "test"
+git commit -m "test"
+git add .
+git status
+git commit -m "well"
+git status
+git --oneline
+git log
+git branch
+ls
+git checkout mainbranch
+git branch
+ls
+git merge
+git merge mainbranch
+ls
+git merge main
+ls
