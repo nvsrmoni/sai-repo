@@ -120,3 +120,40 @@ git merge mainbranch
 ls
 git merge main
 ls
+git branch
+nano filea
+git add .
+git commit -m "filea"
+git checkout main
+git branch
+nano fileb
+git add .
+git commit -m "ok
+jn
+
+
+q
+
+q
+
+git branch
+ls
+git commit -m "fileb"
+git branch
+git merge main
+git merge mainbranch
+ls
+cat filea 
+nano fileb
+git add .
+git commit -m "good"
+git merge mainbranch
+git merge main
+git checkout
+git branch
+git checkout maibranch
+git checkout mainbranch
+git branch
+ls
+git merge main
+git merge mainbranch
