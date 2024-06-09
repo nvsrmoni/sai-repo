@@ -157,3 +157,55 @@ git branch
 ls
 git merge main
 git merge mainbranch
+yum update -y
+yum install git -y
+git config --global user.name "indraja"
+git config --global user.email "suramindrajareddy@gmail.com"
+git config --list
+nano /etc/hostname
+git init
+nano myfile
+ls
+cat myfile
+git status
+git add .
+git status
+git commit -m "welcome to mumbaigit"
+git status
+git --oneline
+git --one line
+git log
+git show e6517490c6ee1
+nano .gitignore
+git add .
+git commit -m "good"
+touch 1.txt 2.sai 1.sa 2.kk
+ls
+git add .
+git status
+git commit -m "dfdgdf"
+git branch 
+ls
+nano touchfile
+git checkout main
+git branch
+ls
+git add .
+git commit -m "touchfile"
+git checkout mainbranch
+git branch
+ls
+nano afile
+git add .
+git commit -m "afile"
+git branch
+git checkout main
+nano bfile
+git add .
+git commit -m "good"
+git merge mainbranch
+git mwege main
+git branch
+git checkout mainbranch
+git merge main
+git merge mainbranch
