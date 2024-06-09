@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1717771056,,"wq!"
+|2,0,1717855071,,"wq!"
 :qw!
 |2,0,1717771029,,"qw!"
 
@@ -30,20 +30,30 @@
 |3,1,36,0,1,0,1717771033,"#"
 
 # File marks:
-'0  5  68  ~/.git/MERGE_MSG
-|4,48,5,68,1717771056,"~/.git/MERGE_MSG"
+'0  6  12  ~/.git/MERGE_MSG
+|4,48,6,12,1717855071,"~/.git/MERGE_MSG"
+'1  5  68  ~/.git/MERGE_MSG
+|4,49,5,68,1717771056,"~/.git/MERGE_MSG"
+'2  5  68  ~/.git/MERGE_MSG
+|4,50,5,68,1717771056,"~/.git/MERGE_MSG"
 
 # Jumplist (newest first):
+-'  6  12  ~/.git/MERGE_MSG
+|4,39,6,12,1717855071,"~/.git/MERGE_MSG"
+-'  5  0  ~/.git/MERGE_MSG
+|4,39,5,0,1717855045,"~/.git/MERGE_MSG"
 -'  5  68  ~/.git/MERGE_MSG
 |4,39,5,68,1717771056,"~/.git/MERGE_MSG"
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1717770991,"~/.git/MERGE_MSG"
 -'  1  0  ~/.git/MERGE_MSG
 |4,39,1,0,1717770991,"~/.git/MERGE_MSG"
 
 # History of marks within files (newest to oldest):
 
 > ~/.git/MERGE_MSG
-	*	1717771050	0
-	"	5	68
+	*	1717855065	0
+	"	6	12
 	^	5	69
 	.	5	69
 	+	5	70
